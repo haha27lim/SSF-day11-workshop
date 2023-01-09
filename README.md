@@ -53,7 +53,7 @@ mvn spring-boot:run -Dspring-boot.run.arguments=--port=8085
 10. Setting env var port value
 
 ```
-export APP_PORT=8090
+MAC: export APP_PORT=8090
 
-set APP_PORT=8090
+Windows: set APP_PORT=8090
 ```
